@@ -52,26 +52,49 @@ The main function orchestrates the program by opening the input file, invoking t
 OUTPUT:
 
 Token: int | Type: Keyword
+
 Token: x | Type: Identifier
+
 Token: = | Type: Operator
+
+
 Token: 10 | Type: Number
+
 Token: ; | Type: Unknown
+
 Token: float | Type: Keyword
+
 Token: y | Type: Identifier
+
 Token: = | Type: Operator
+
 Token: 3.14 | Type: Number
+
 Token: ; | Type: Unknown
+
 Token: if | Type: Keyword
+
 Token: ( | Type: Unknown
+
 Token: x | Type: Identifier
+
 Token: > | Type: Operator
+
 Token: y | Type: Identifier
+
 Token: ) | Type: Unknown
+
 Token: { | Type: Unknown
+
 Token: return | Type: Keyword
+
 Token: x | Type: Identifier
+
 Token: + | Type: Operator
 Token: y | Type: Identifier
+
 Token: ; | Type: Unknown
+
 Token: } | Type: Unknown
+
 
