@@ -91,6 +91,7 @@ Token: return | Type: Keyword
 Token: x | Type: Identifier
 
 Token: + | Type: Operator
+
 Token: y | Type: Identifier
 
 Token: ; | Type: Unknown
